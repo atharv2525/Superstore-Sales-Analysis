@@ -24,7 +24,8 @@ This project analyzes the Global Superstore dataset to uncover business insights
 
 ## 📊 Dashboard Preview
 
-    ![Superstore Dashboard](Dashboard.png)
+    ![Superstore Dashboard]
+    (Dashboard.png)
 
 ---
 
